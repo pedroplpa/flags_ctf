@@ -1,0 +1,12 @@
+{
+    "secret_key": "webimerules",
+    
+    "host": "127.0.0.1",
+    "port": 4444,
+
+    "isProxied": false,
+
+    "db": "sqlite:///xss.db",
+
+    "debug": true
+}

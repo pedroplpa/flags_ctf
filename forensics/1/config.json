@@ -1,0 +1,12 @@
+{
+    "secret_key": "webimerules",
+    
+    "host": "0.0.0.0",
+    "port": 4444,
+
+    "isProxied": false,
+
+    "db": "sqlite:///sql_injection.db",
+
+    "debug": false
+}

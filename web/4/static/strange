@@ -1,0 +1,8 @@
+var s = "eCA9PSAnSjRWNFNDUjFQVF"
+var t = "9VTkQzUl8zTkNSWVBUMTB"
+var r = "Oe04wVF9TMF9TM0NVUjN9Jwo="
+
+function produce(x){
+	if(eval(atob(s+t+r)))
+		alert("Success!!!")
+}
